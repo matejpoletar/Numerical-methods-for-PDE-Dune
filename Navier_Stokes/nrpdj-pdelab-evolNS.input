@@ -1,0 +1,12 @@
+# Configuration file for the program - stationary Navier-Stokes
+
+OutputFile = Navier_Stokes	
+
+[physics]
+rho = 1.0
+mu = 1
+
+[domain]
+level = 0
+
+

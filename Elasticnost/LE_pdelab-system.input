@@ -1,0 +1,6 @@
+level = 0
+E = 2e9
+nu = 0.4
+g_vert = -1000
+output = pomak
+rho = 5000
